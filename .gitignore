@@ -75,3 +75,5 @@ DerivedDataCache/*
 
 # Custom User Ignores
 Content/Scene_QuarrySlate/
+Content/StarterContent/
+Content/ThirdPerson/
