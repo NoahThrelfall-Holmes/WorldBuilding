@@ -77,3 +77,6 @@ DerivedDataCache/*
 Content/Scene_QuarrySlate/
 Content/StarterContent/
 Content/ThirdPerson/
+Content/FirstPerson/
+Content/FirstPersonArms/
+Content/FPWeapon/
