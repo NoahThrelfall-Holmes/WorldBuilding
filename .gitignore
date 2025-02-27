@@ -75,8 +75,11 @@ DerivedDataCache/*
 
 # Custom User Ignores
 Content/Scene_QuarrySlate/
+Content/Scene_Saloon/
+Content/__ExternalActors__/Scene_Saloon/
 Content/StarterContent/
 Content/ThirdPerson/
 Content/FirstPerson/
 Content/FirstPersonArms/
 Content/FPWeapon/
+Content/WoodenProps/
